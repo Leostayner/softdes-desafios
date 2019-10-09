@@ -1,0 +1,6 @@
+Flask-HTTPAuth
+pysqlite3
+hashlib
+Flask
+jsonlib
+DateTime
